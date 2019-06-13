@@ -53,4 +53,4 @@ Javascript jest językiem:
 - Coroczna ankieta analizująca trendy ze świata JS - [stateofjs](https://stateofjs.com/)
 - Do nauki:
 	- Kanały youtube: 🇬🇧 [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w), 🇵🇱 [Hello Roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g)
-	- Książki: [Eloquent Javascript na początek](https://eloquentjavascript.net/), a potem [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+	- Książki: [Eloquent Javascript](https://eloquentjavascript.net/) na początek, a potem [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
