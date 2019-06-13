@@ -52,5 +52,5 @@ Javascript jest językiem:
  - Jeśli wam za mało narzędzi - [Best of JS](https://bestofjs.org/)
  - Najlepszy agregator wszystkiego ze świata JS - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - Do nauki:
-	- Kanały youtube: 🇬🇧[Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w), 🇵🇱 [Hello Roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g)
+	- Kanały youtube: 🇬🇧 [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w), 🇵🇱 [Hello Roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g)
 	- Książki: [Eloquent Javascript na początek](https://eloquentjavascript.net/), a potem [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
