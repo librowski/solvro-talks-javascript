@@ -5,7 +5,6 @@
 
 ### Krótko o JS
 Javascript jest językiem:
-- Interpretowanym
 - [Wieloparadygmatowym](https://codesandbox.io/s/solvro-talks-javascript-ec116):
 	- Imperatywnym
 	- Obiektowym
