@@ -48,8 +48,9 @@ Javascript jest językiem:
 
 ### Dobre linki (subiektywnie)
 
- - Jeśli wam za mało narzędzi - [Best of JS](https://bestofjs.org/)
- - Najlepszy agregator wszystkiego ze świata JS - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+- Jeśli wam za mało narzędzi - [Best of JS](https://bestofjs.org/)
+- Najlepszy agregator wszystkiego związanego z JS - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+- Coroczna ankieta analizująca trendy ze świata JS - [stateofjs](https://stateofjs.com/)
 - Do nauki:
 	- Kanały youtube: 🇬🇧 [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w), 🇵🇱 [Hello Roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g)
 	- Książki: [Eloquent Javascript na początek](https://eloquentjavascript.net/), a potem [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
