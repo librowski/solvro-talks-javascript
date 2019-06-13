@@ -24,7 +24,7 @@ Javascript jest językiem:
 	- Interakcje, Efekty, animacje - pierwotne przeznaczenie JS
 	- Single Page Applications (np. [React](https://reactjs.org/), [Angular](https://angular.io/), [Vue](https://vuejs.org/))
 - Digital Art
-	- Nietypowe strony (np. [1](http://legworkstudio.com/animation), [2](https://www.sbs.com.au/theboat/), [3](http://www.weareuprising.com/index))
+	- Nietypowe strony (np. [1](http://legworkstudio.com/animation), [2](https://www.sbs.com.au/theboat/), [3](http://www.weareuprising.com/index), [awwwards](https://www.awwwards.com/))
 	- Żywe ilustracje jak np. [tutaj](https://www.instagram.com/p/BmI6zUonApV/)
 - Programowanie webowe (backend)
 	- Stworzenie [NodeJS](https://nodejs.org/en/) uwolniło Javascript z przeglądarki dając mu kompletnie nowe środowisko uruchomieniowe
